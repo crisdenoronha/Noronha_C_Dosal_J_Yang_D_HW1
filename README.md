@@ -22,7 +22,7 @@ First Homework in Multimedia Authoring 1, We are learning how to work in group u
 5. Submit a pull request and add the reviewers :D
 
 ## History
-TODO: Write history ?
+TODO: we are classmate. And Cristine added Jackson and Ying as group members.The repository is created by Cristine. 
 
 ## Credits
 <p>crisdenoronha - developer and reviewer</p>
